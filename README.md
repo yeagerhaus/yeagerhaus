@@ -1,5 +1,3 @@
 ![Yeagerhaus Banner](https://github.com/yeagerhaus/yeagerhaus/blob/main/yhbanner2.png?raw=true)
 
-Hey there, I'm Cole! I’m a recent graduate of Union College in Lincoln Nebraska, with a BS in Computer Science and a Minor in Engineering.  I am originally from St. Helena, California, where I was born and raised, but I also spent time living in Germany when I was a child!  I'm currently working as a React Native Developer at [Alpine IQ](https://alpineiq.com/).
-
-In my spare time I enjoy playing drums with my local band [The Zooeys](https://thezooeys.com/) and working on other music projects.  My other hobbies include downhill skateboarding, camping, and cycling!  Feel free to reach out with any business inquiries or questions!
+Hey there, I'm Cole!  I'm a React Native Developer working for [Alpine IQ](https://alpineiq.com/).  When I'm not at work, I play drums for the [The World Without Us](https://open.spotify.com/artist/5R9VthdcrIP3ZkxDTigclm?si=HbUa5Q0DS1Wb6GRIxKYSNw) [The Zooeys](https://open.spotify.com/artist/3t9TpVDaCUbGOWvRC3YREx?si=JpromleFQbSg5shjWnQxOQ).  My other hobbies include downhill skateboarding, camping, and cycling!
